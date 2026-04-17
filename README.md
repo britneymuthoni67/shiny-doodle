@@ -18,6 +18,6 @@ Updated design with improved colors and styling
 ##Improved layout
 Improved layout by organizing sections and structure
 
-Worked with feature branch
+*Worked with feature branch
 
-Added new project section 
+*Added new project section 
